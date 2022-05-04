@@ -96,12 +96,12 @@ img {
 
 
 .show-item {
-	background-color: blue;
+	background-color: #ffbd59;
 }
 
-.show-item:hover {
+/*.show-item:hover {
 	filter: brightness(50%);
-}
+}*/
 
 
 .show-fortune {
