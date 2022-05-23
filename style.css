@@ -133,7 +133,7 @@ img {
 	background-color: #ffbd59;
 	font-weight: bold;
 }
-
+/**
 .monday {
 	grid-row: span 1;
 }
@@ -141,7 +141,7 @@ img {
 .thursday {
 	grid-row: span 1;
 }
-
+**/
 
 @media only screen and (max-width: 1000px) {
 	.schedule-grid {
