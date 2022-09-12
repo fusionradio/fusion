@@ -50,6 +50,10 @@ h1, h2, h3, h4 {
 	text-align: center;
 }
 
+h2 {
+	color:#000;
+}
+
 h4 {
 	width: 50%;
 	margin: auto;	
@@ -61,6 +65,10 @@ img {
 	width: 100%;
 	height: 100%;
 	object-fit:cover;
+}
+
+#logo {
+	width: 20%
 }
 
 
@@ -126,7 +134,7 @@ img {
 }
 
 .schedule-item {
-	background-color: #7eccb7;
+	background-color: #fff;
 }
 
 .day-item {
@@ -135,9 +143,13 @@ img {
 }
 
 
-/*.wednesday {
+.tuesday {
+	grid-row: span 6;
+}
+
+.wednesday {
 	grid-row: span 2;
-}*/
+}
 
 
 @media only screen and (max-width: 1000px) {
@@ -197,7 +209,7 @@ img {
 }
 
 .fa-envelope {
-	background: #4f9e00;
+	background: #666699;
 	color: white;
 }
 
