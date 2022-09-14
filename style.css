@@ -147,10 +147,6 @@ img {
 	grid-row: span 6;
 }
 
-.wednesday {
-	grid-row: span 2;
-}
-
 
 @media only screen and (max-width: 1000px) {
 	.schedule-grid {
