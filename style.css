@@ -143,10 +143,7 @@ img {
 }
 
 
-.thursday {
-	grid-row: span 2;
-}
-.friday {
+.tuesday, .thursday, .friday {
 	grid-row: span 2;
 }
 
